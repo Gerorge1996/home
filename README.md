@@ -7,4 +7,4 @@
 ## 💻 Программирование
 - **Языки**: Python,SQL
 - **Базы данных**: PostgreSQL, ClickHouse, Vertica
-- **Другое**: Git, BI 
+- **Другое**: Git, BI, Airflow, math, statistics 
