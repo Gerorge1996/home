@@ -1,6 +1,6 @@
 # 👋 Привет, меня зовут Юрий!
 
-|Data Analyst|Data Scientist|
+__|Data Analyst|Data Scientist|__
 
 📱 **Telegram**: @berserk_29
 
